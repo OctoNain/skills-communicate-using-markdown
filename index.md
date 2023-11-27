@@ -3,3 +3,6 @@
 ```javascript
 var a = "Hellow World!";
 ```
+- [ ] A
+- [ ] B
+- [x] C
